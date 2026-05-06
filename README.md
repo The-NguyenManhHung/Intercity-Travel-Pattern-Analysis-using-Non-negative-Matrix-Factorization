@@ -7,7 +7,7 @@ This project is a part of my research on mobility pattern analysis in my Master'
 This project demonstrates how to extract mobility patterns from spatiotemporal data using Non-negative Matrix Factorization (NMF), where a non-negative matrix V is factorized into two smaller matrices W and H.
 
 ## Data
-Traveler data between Japan's 47 prefectures in 2019.
+Long-distance interprefecture traveler data between Japan's 47 prefectures in 2019.
 
 ## Result
 The W matrix shows: Number of people traveling for each travel behavior over the time series.
