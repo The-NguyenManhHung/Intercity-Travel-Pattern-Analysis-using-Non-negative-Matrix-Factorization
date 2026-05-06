@@ -19,5 +19,12 @@ Combining the information of matrix W and H from the NMF result, we achieved thr
 ![Component 1](output/W_mat_component_1.png)
 ![Component 1](output/H_mat_component_1.png)
 
-+ Component 2: Visiting relatives and friends
-+ Component 3: Leisure/Sightseeing
+### Component 2: Visiting relatives and friends
+
+![Component 2](output/W_mat_component_2.png)
+![Component 2](output/H_mat_component_2.png)
+
+### Component 3: Leisure/Sightseeing
+
+![Component 3](output/W_mat_component_3.png)
+![Component 3](output/H_mat_component_3.png)
