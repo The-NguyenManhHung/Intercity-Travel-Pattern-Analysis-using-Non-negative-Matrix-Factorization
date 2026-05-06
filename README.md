@@ -4,7 +4,7 @@
 This project is a part of my research on mobility pattern analysis in my Master's course and was converted from my MATLAB code to Python.
 
 ## Overview
-This project demonstrates how to extract mobility patterns from spatiotemporal data using Non-negative Matrix Factorization (NMF).
+This project demonstrates how to extract mobility patterns from spatiotemporal data using Non-negative Matrix Factorization (NMF), where a non-negative matrix V is factorized into two smaller matrices W and H.
 
 ## Data
 Traveler data between Japan's 47 prefectures in 2019.
