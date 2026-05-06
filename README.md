@@ -15,6 +15,7 @@ The H matrix shows: The ratio of people traveling for each OD pair and each trav
 
 Combining the information of matrix W and H from the NMF result, we achieved three travel behaviors:
 + Component 1: Business
+
 ![Component 1](output/W_mat_component_1.png)
 ![Component 1](output/H_mat_component_1.png)
 
