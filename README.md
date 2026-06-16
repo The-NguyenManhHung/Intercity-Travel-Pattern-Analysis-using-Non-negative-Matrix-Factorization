@@ -28,7 +28,7 @@ H_mat: Component 1 has high travel number
 + between nearby OD (orgiginal-distance) paris (close-distance).
 + going to and from major prefectures likes Tokyo & Osaka & surroundings.
 
-&rarr; Component 1 is related to Bussiness behavior.
+&rarr; Component 1 is related to **Bussiness behavior**.
 
 ### Component 2: VRF (Visiting relatives and friends)
 
@@ -42,7 +42,7 @@ H_mat: Component 2 has high travel number
 + from big populations cities such as Tokyo area, Aichi, Osaka, etc.
 + from Fukuoka to others prefecture on Kyushu Island
 
-&rarr; Component 2 is related to VRF behavior.
+&rarr; Component 2 is related to **VRF behavior**.
 
 ### Component 3: Leisure/Sightseeing
 
@@ -57,4 +57,4 @@ H_mat: Component 3 has high travel number
 + OD pairs related to famous tourist destination Tokyo area & Kyoto, Osaka,…
 + Within Kyushu Island
 
-&rarr; Component 3 is related to leisure/sightseeing behavior.
+&rarr; Component 3 is related to **Leisure/sightseeing behavior**.
